@@ -1,7 +1,8 @@
 set termguicolors
+packadd! dracula
 syntax on
 set background=dark
-colorscheme hybrid_material
+colorscheme dracula
 let g:enable_bold_font = 1
 let g:airline_theme = "hybrid"
 
